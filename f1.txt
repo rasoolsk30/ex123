@@ -1,2 +1,3 @@
 git is distributed virtual control system
 by using this tool you can push your files into github
+this is how we define the git 
