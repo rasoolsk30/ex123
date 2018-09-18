@@ -1,1 +1,1 @@
-git is distributed virtual control system
+git is not distributed virtual control system
